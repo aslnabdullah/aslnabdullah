@@ -8,7 +8,6 @@ I am studying software engineering. In my last year of school, I continue to dev
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [abdullahaslan2510@gmail.com](mailto:abdullahaslan2510@gmail.com)
-* 🚀  I'm currently working on [ArVis Technology](http://www.arvis.com.tr/)
 * 🧠  I'm learning Java and JS
 * 🤝  I'm open to collaborating on I'm open to collaborating on in backend projects with java
 * ⚡  you can contact me through the relevant channels
